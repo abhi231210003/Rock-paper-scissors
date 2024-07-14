@@ -41,8 +41,6 @@ showWinner=(userWin,userChoice,compChoice)=>{
 const playGame=(userChoice)=>{
     //generate computer choice->modular
     const compChoice=genComputerChoice();
-    userMove.innerText=userChoice;
-    compMove.innerText=compChoice;
     if(userChoice===compChoice){
         //draw game
         drawGame();
