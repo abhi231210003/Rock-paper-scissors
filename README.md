@@ -1,4 +1,5 @@
-#ROCK-PAPER-SCISSORS GAME
+
+# ROCK-PAPER-SCISSORS GAME
 <b>Features:-</b>
 <ul>
     <li>Choose rock, paper, or scissors.</li>
@@ -14,5 +15,5 @@
     <li>JavaScript</li>
 </ul>
 
-#Link to the Game
+# Link to the Game
 <a href="" >ROCK-PAPER-SCISSORS</a>
