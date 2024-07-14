@@ -10,9 +10,7 @@ h1{
     line-height: 5rem;/*height=lineheight brings text in vertical center*/
 }
 body{
-    /* background-color: #548687;*/
-    background-image:url("./img/backgnd_img.jpg");
-    background-size: cover; 
+    background-color: #548687;
 }
 .choice{
     height: 165px;
@@ -23,7 +21,7 @@ body{
     align-items: center;
 }
 .choice:hover{
-    /* opacity: 0.5; */
+    opacity: 0.8;
     cursor: pointer;
     background-color: #081b31;
 }

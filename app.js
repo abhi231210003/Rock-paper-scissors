@@ -8,7 +8,7 @@ const userScorePara=document.querySelector("#user-score");
 const compScorePara=document.querySelector("#comp-score");
 
 const userMove=document.querySelector(".user-move");
-const compMove=document.querySelector("compMove");
+const compMove=document.querySelector(".comp-move");
 
 
 const genComputerChoice=()=>{
