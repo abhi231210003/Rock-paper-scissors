@@ -1,4 +1,3 @@
-
 # ROCK-PAPER-SCISSORS GAME
 <b>Features:-</b>
 <ul>
